@@ -1,0 +1,821 @@
+[
+    {
+        "id": "0x04929f9e31f18e0b37c54d0782fa4166c587c081",
+        "token0": {
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+            "symbol": "BOB",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x0d6154b875df5cc0a1cbb315065b6d2fdb364e8d",
+        "token0": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+            "symbol": "KNC",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x20a76e6d61c7826b42d42cbf5866efe71b60bb25",
+        "token0": {
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+            "symbol": "CRV",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x2116942c91dddf8ef4bf251ed809d0ddc9d9144d",
+        "token0": {
+            "id": "0x5283d291dbcf85356a21ba090e6db59121208b44",
+            "symbol": "BLUR",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x212ab9592ba33bd8075396b1ed36f68c99237068",
+        "token0": {
+            "id": "0xb9eefc4b0d472a44be93970254df4f4016569d27",
+            "symbol": "XDB",
+            "decimals": "7"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x21b767aecf85b4da7fb121c8428ced64997e05db",
+        "token0": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9",
+            "symbol": "LUNA",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x23b085c455a048e366c10fcfd00351dc85ab65be",
+        "token0": {
+            "id": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+            "symbol": "OHM",
+            "decimals": "9"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x2924a3d443d982e4cf4fedd530ed0b9e95818f3d",
+        "token0": {
+            "id": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+            "symbol": "AST",
+            "decimals": "4"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x298d6c604378bcaa81c5eb7d603f7b48dc12de81",
+        "token0": {
+            "id": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+            "symbol": "SNX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x2c104235eb170e72a19377b07e2dfbd4d7f0c51f",
+        "token0": {
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xc285b7e09a4584d027e5bc36571785b515898246",
+            "symbol": "CUSD",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x30234f2afe32693f291b3574d99a55b05840aa05",
+        "token0": {
+            "id": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+            "symbol": "LDO",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+            "symbol": "wstETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x39e066e56bb8f9a4675e8b3fec9e272cbd6880ad",
+        "token0": {
+            "id": "0x9813037ee2218799597d83d4a5b6f3b6778218d9",
+            "symbol": "BONE",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x496e02edb8ab781ca1a4db2e038e5730191c03dd",
+        "token0": {
+            "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "symbol": "DAI",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x5788b92d072a8bf205857ee1db88e43470067461",
+        "token0": {
+            "id": "0x9813037ee2218799597d83d4a5b6f3b6778218d9",
+            "symbol": "BONE",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x584b94cd135a5929ad0b3b737085a95dd934df7f",
+        "token0": {
+            "id": "0x55296f69f40ea6d20e478533c15a6b08b654e758",
+            "symbol": "XYO",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa",
+            "symbol": "ETHMNY",
+            "decimals": "2"
+        }
+    },
+    {
+        "id": "0x588b6b91e83e3d3485c5129c75708f94c6fa2041",
+        "token0": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9",
+            "symbol": "LUNA",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x5d17ad286cc917e7262c5a39126cac9567431dbe",
+        "token0": {
+            "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "symbol": "WBTC",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0x66eff5221ca926636224650fd3b9c497ff828f7d",
+            "symbol": "multiBTC",
+            "decimals": "8"
+        }
+    },
+    {
+        "id": "0x601f4cd9ce39d2869828672c03c4b0bcf2ed15cc",
+        "token0": {
+            "id": "0x1da4858ad385cc377165a298cc2ce3fce0c5fd31",
+            "symbol": "CCS",
+            "decimals": "0"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x6b1853adc7ac2c0ac1c58650690b98d36f7e7a13",
+        "token0": {
+            "id": "0xa4ec83c8907888d006a37debf755ee39766f38ae",
+            "symbol": "GCU",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x7872fae23cc7959cc97ac9ff0d7d559b5a154fc9",
+        "token0": {
+            "id": "0x00c2999c8b2adf4abc835cc63209533973718eb1",
+            "symbol": "STATE",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x7b97a46e2899185ae3b75f51ca31eca387d959e6",
+        "token0": {
+            "id": "0x111111111117dc0aa78b770fa6a738034120c302",
+            "symbol": "1INCH",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa",
+            "symbol": "ETHMNY",
+            "decimals": "2"
+        }
+    },
+    {
+        "id": "0x7d697d789ee19bc376474e0167bade9535a28cf4",
+        "token0": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x80b044ba2cd812d49fae1bf97cbdb06aec4536d0",
+        "token0": {
+            "id": "0x1da4858ad385cc377165a298cc2ce3fce0c5fd31",
+            "symbol": "CCS",
+            "decimals": "0"
+        },
+        "token1": {
+            "id": "0xf5ba8a8c87f976b79b17ccd25ee8dc2f8e82fb59",
+            "symbol": "ETHS",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x81df0049443f5d037f92518fbb509e0ee50333ce",
+        "token0": {
+            "id": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+            "symbol": "CVX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x842b41ec57bd53179b66693b3a7e15802d6b8057",
+        "token0": {
+            "id": "0x83249c6794bca5a77eb8c0af9f1a86e055459cea",
+            "symbol": "GIGA",
+            "decimals": "9"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x8439b6a1b363b596a55a9785abaaf97233104e78",
+        "token0": {
+            "id": "0x32d222e1f6386b3df7065d639870be0ef76d3599",
+            "symbol": "WETH",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xda15e63bb09d98b4d6164d223fb9048194052e33",
+            "symbol": "crvUSDBTCETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x87d307554d3f530dfb9cd6eb93b5a7bc9d02d1b3",
+        "token0": {
+            "id": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+            "symbol": "YFI",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x8990b58ab653c9954415f4544e8deb72c2b12ed8",
+        "token0": {
+            "id": "0x514910771af9ca656af840dff83e8264ecf986ca",
+            "symbol": "LINK",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+            "symbol": "KNC",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x8fd28087422e13f4fc37e1c3db2f14073d84b7b4",
+        "token0": {
+            "id": "0x3a810ff7211b40c4fa76205a14efe161615d0385",
+            "symbol": "AIN",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x91dcb7e51d9d3b7e69b63adeeb1fe2e22313e71c",
+        "token0": {
+            "id": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+            "symbol": "FTX Token",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x943825f90a512c5f351dddcd41b784d0061e391b",
+        "token0": {
+            "id": "0xa735a3af76cc30791c61c10d585833829d36cbe0",
+            "symbol": "imgnAI",
+            "decimals": "9"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x952ffc4c47d66b454a8181f5c68b6248e18b66ec",
+        "token0": {
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x99da39d60c9733d37573266a8551443cc122441b",
+        "token0": {
+            "id": "0x55c08ca52497e2f1534b59e2917bf524d4765257",
+            "symbol": "UwU",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xa140955e16dec0a6b8448e47301545836d3a4886",
+        "token0": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xee3675969662a4d3fd901a40f3a3d9ba6f335b99",
+            "symbol": "KVX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xa38a0165e82b7a5e8650109e9e54087a34c93020",
+        "token0": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+            "symbol": "KNC",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xa4338fdd37405e72985ea6dea8c328171b34c1d3",
+        "token0": {
+            "id": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+            "symbol": "BOB",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xa6a0e660df3239b288b0d59da8a9d29450cdcbf1",
+        "token0": {
+            "id": "0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c",
+            "symbol": "UNIDX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xaed94908236484f69ad4f748bfb856b378be21e8",
+        "token0": {
+            "id": "0x808507121b80c02388fad14726482e061b8da827",
+            "symbol": "PENDLE",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xb1a6b2b9e2568d485a6c7c9ee97031b0f967072c",
+        "token0": {
+            "id": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
+            "symbol": "cbETH",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xb5e643250ff59311071c5008f722488543dd7b3c",
+        "token0": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+            "symbol": "KNC",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xbab70ef1b41462c04359e4863cb7f0ce5e4115bc",
+        "token0": {
+            "id": "0x3e1cc38090d8ca54248d79aedf17ca4c7c9fa9b9",
+            "symbol": "KAI",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xc09f95fb1bf19cf9c62498547e569eec51559c75",
+        "token0": {
+            "id": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "symbol": "UNI",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa",
+            "symbol": "ETHMNY",
+            "decimals": "2"
+        }
+    },
+    {
+        "id": "0xc175ebde0ed25bbbebc457d7fd045ce9bfe5df1c",
+        "token0": {
+            "id": "0x853d955acef822db058eb8505911ed77f175b99e",
+            "symbol": "FRAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xc1e5a132cdbaa4ddc32356e9e59828e7769ef0a2",
+        "token0": {
+            "id": "0x269616d549d7e8eaa82dfb17028d0b212d11232a",
+            "symbol": "PUNK",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xc21545b5758e323c216d7b6f40985053969dab7b",
+        "token0": {
+            "id": "0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa",
+            "symbol": "ETHMNY",
+            "decimals": "2"
+        },
+        "token1": {
+            "id": "0xf8f237d074f637d777bcd2a4712bde793f94272b",
+            "symbol": "ERC223",
+            "decimals": "10"
+        }
+    },
+    {
+        "id": "0xc4d8d5592fc2a70fd7185058ce1d857d255b641c",
+        "token0": {
+            "id": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+            "symbol": "HEX",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0x3819f64f282bf135d62168c1e513280daf905e06",
+            "symbol": "HDRN",
+            "decimals": "9"
+        }
+    },
+    {
+        "id": "0xc4f3b37d64ca9ed49b9486cdc60dbeb53c18b849",
+        "token0": {
+            "id": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
+            "symbol": "UBT",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xc58d75fbe7b91080db8bcd2d862f8e37ac9dea59",
+        "token0": {
+            "id": "0xae12c5930881c53715b369cec7606b70d8eb229f",
+            "symbol": "C98",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xc5d2fcd426a648b2cabf14aabafc9a87801d4b40",
+        "token0": {
+            "id": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+            "symbol": "wstETH",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xcbef9bfafec9d88f097d6c2cb25a8be57f7c678e",
+        "token0": {
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xae12c5930881c53715b369cec7606b70d8eb229f",
+            "symbol": "C98",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xcd4078b9ffed3047d4a8b4bfa3321890e6bed818",
+        "token0": {
+            "id": "0x853d955acef822db058eb8505911ed77f175b99e",
+            "symbol": "FRAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xcd5f9e339fd1ed8e0367c81774cbf8402d25d103",
+        "token0": {
+            "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "symbol": "WBTC",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+            "symbol": "KNC",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xce047a673a88093ac4f7a5517a1f0d8baa1701ed",
+        "token0": {
+            "id": "0x853d955acef822db058eb8505911ed77f175b99e",
+            "symbol": "FRAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xd4c83b99560fad3541d637c2add7ace251b6b35e",
+        "token0": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xf5b79f89f32e1807bdb81e46a427c6267e432101",
+            "symbol": "BTB",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xd9eeaba515824e53e52b6ec21a7e465ed6d37a78",
+        "token0": {
+            "id": "0x853d955acef822db058eb8505911ed77f175b99e",
+            "symbol": "FRAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xac3e018457b222d93114458476f3e3416abbe38f",
+            "symbol": "sfrxETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xdc83039698a8783940b72a1f599bdd15df30f0a7",
+        "token0": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+            "symbol": "SWAP",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xde2aea1b98523c412ae5015962bcf8dbebcbee9e",
+        "token0": {
+            "id": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
+            "symbol": "GEL",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xe6bcb55f45af6a2895fadbd644ced981bfa825cb",
+        "token0": {
+            "id": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+            "symbol": "wstETH",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xe889422fbc3ab89e5ca55d2b164c2f18dccde537",
+        "token0": {
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "symbol": "USDC",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
+            "symbol": "KNC",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xe9625d4f30d8664f0374c4601e5ec9ac54ba5175",
+        "token0": {
+            "id": "0x656c00e1bcd96f256f224ad9112ff426ef053733",
+            "symbol": "EFI",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xebfe63ba0264ad639b3c41d2bfe1ad708f683bc8",
+        "token0": {
+            "id": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+            "symbol": "wstETH",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xfcd6019ad26be2d05ae1ae33650ee39c8a9e36e0",
+        "token0": {
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "symbol": "WETH",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xfe4c6a8b22ee09592c01f801b791af0042ee69c0",
+        "token0": {
+            "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "symbol": "WBTC",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "symbol": "USDT",
+            "decimals": "6"
+        }
+    }
+]

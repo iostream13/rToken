@@ -1,0 +1,2095 @@
+[
+    {
+        "id": "0x00ce95e8277216311ee6cb3e6ab8e235b8ff6ce7",
+        "token0": {
+            "id": "0x6536230917ea648f07bf9dc7bf8ef4d524e8db98",
+            "symbol": "DEX",
+            "decimals": "12"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x024ba2110590dffa4d6b288761c5ee1e78e62cd4",
+        "token0": {
+            "id": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+            "symbol": "wMEMO",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x03edac8783b47f21813fc2778e5e85828f1d77ec",
+        "token0": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xd3ac016b1b8c80eeadde4d186a9138c9324e4189",
+            "symbol": "OK",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x0551827bbd26054b80ed8099fa04f551632e9380",
+        "token0": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x090b0f3c44cb431512dca2ba0b5b326a4466524d",
+        "token0": {
+            "id": "0x237917e8a998b37759c8ee2faa529d60c66c2927",
+            "symbol": "sifu",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x0a3e2eedece6ad9641d6ce933c9589bc360ea8c8",
+        "token0": {
+            "id": "0x237917e8a998b37759c8ee2faa529d60c66c2927",
+            "symbol": "sifu",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x0c3b6ee14cf0eddab91276e7ee71280f6ff61128",
+        "token0": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x0d0836cd9ba13b8c2715e98de737e874654155c1",
+        "token0": {
+            "id": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+            "symbol": "BTC.b",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0x50b7545627a5162f82a992c33b87adc75187b218",
+            "symbol": "WBTC.e",
+            "decimals": "8"
+        }
+    },
+    {
+        "id": "0x0e08653622f18f7c00d8c52d14af56245a8b6d4e",
+        "token0": {
+            "id": "0xa41a879bcfdd75983a987fd6b68fae37777e8b28",
+            "symbol": "XEX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x0e25b898b3645fe9822ec0a310090a525f682b12",
+        "token0": {
+            "id": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+            "symbol": "JOE",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x12d5297237a2c593f5a27d3b8ce7d3c2f52d35aa",
+        "token0": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xf7d9281e8e363584973f946201b82ba72c965d27",
+            "symbol": "yyAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x1314eebfaeb680ae522853fe313f4e631562f989",
+        "token0": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x14d81c57d8ec56f2f4829dedfbb9f12fa6a98aac",
+        "token0": {
+            "id": "0x237917e8a998b37759c8ee2faa529d60c66c2927",
+            "symbol": "sifu",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x1516c69a5d860cff7f87f2842b15bfddab2fe968",
+        "token0": {
+            "id": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+            "symbol": "BTC.b",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x15bbebb9108cec4f9a06605a3c21433a2d8991a3",
+        "token0": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xeeee99b35eb6af5e7d76dd846dbe4bcc0c60ca1d",
+            "symbol": "SNEK",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x16e1e5b6d87cb0cb72702c86081aa9b6d4655eeb",
+        "token0": {
+            "id": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+            "symbol": "BTC.b",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0xe7462905b79370389e8180e300f58f63d35b725f",
+            "symbol": "yyJOE",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x1701a7e5034ed1e35c52245ab7c07dbdaf353de7",
+        "token0": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x173a60bd0d24e397bedbb40a4cca1bdcc72047dd",
+        "token0": {
+            "id": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+            "symbol": "KNC",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+            "symbol": "AAVE.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x1b70cfa5da8fc1db16606a4526b0d7268324ab07",
+        "token0": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb279f8dd152b99ec1d84a489d32c35bc0c7f5674",
+            "symbol": "STEAK",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x1baaee4d55def03ddabac5a80b3466b68b58cc36",
+        "token0": {
+            "id": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+            "symbol": "BTC.b",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0x50b7545627a5162f82a992c33b87adc75187b218",
+            "symbol": "WBTC.e",
+            "decimals": "8"
+        }
+    },
+    {
+        "id": "0x1bef9e9dd11f8a7646c669e56590a5612a938f3b",
+        "token0": {
+            "id": "0x3b55e45fd6bd7d4724f5c47e0d1bcaedd059263e",
+            "symbol": "miMatic",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x1cd69971d70ea168556f53f6f20bb37b3455563c",
+        "token0": {
+            "id": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+            "symbol": "sAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xf7d9281e8e363584973f946201b82ba72c965d27",
+            "symbol": "yyAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x1e5d4568fbcf83e92088b016d6073724982656cd",
+        "token0": {
+            "id": "0x4967c9c0a2334a938e62d9bcd33a06df146c76a4",
+            "symbol": "unknown",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "symbol": "USDt",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x201f73a010d1a8a6c75e3a8a9742cb290ecd4218",
+        "token0": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x2086a3b3beded7219342bae62450d5b5741487e7",
+        "token0": {
+            "id": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+            "symbol": "wMEMO",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x2304fa3abcb57fe2957cf449f67e03ed5c7205e2",
+        "token0": {
+            "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "symbol": "USDt",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+            "symbol": "DAI.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x25c167fe18e318da3e8a378853139f83f5ceedd0",
+        "token0": {
+            "id": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+            "symbol": "JOE",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x274312e1c6fbc637316b9d882c0176cc292e176a",
+        "token0": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xc1fc15b9eec1a4efd80202cb3d8fed72dc1ed3e9",
+            "symbol": "GRAMZ",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x28c3b9581dea356b00630668f58a47ca522c0f62",
+        "token0": {
+            "id": "0x65378b697853568da9ff8eab60c13e1ee9f4a654",
+            "symbol": "HUSKY",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x28eb2c404ec8d2591f4df52166e642dca907e1b5",
+        "token0": {
+            "id": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+            "symbol": "sAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "symbol": "USDt",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x2982af21abc9aae2349b96159e866a151acc4e8a",
+        "token0": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xf7d9281e8e363584973f946201b82ba72c965d27",
+            "symbol": "yyAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x2b5023b41015c525f9e8afdf1eddc7e23eabd92a",
+        "token0": {
+            "id": "0x77777777777d4554c39223c354a05825b2e8faa3",
+            "symbol": "YETI",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xe7462905b79370389e8180e300f58f63d35b725f",
+            "symbol": "yyJOE",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x2b80f8fe0064112e7d53880025e7731e246303bc",
+        "token0": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x2c66b11b434e80ad287268dbd2c11450fd6f0f8c",
+        "token0": {
+            "id": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+            "symbol": "KNC",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x2d9361f4110e7bf8b8f39559a61c2d2777d14002",
+        "token0": {
+            "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "symbol": "USDt",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x2def811b54dc02e936c1e71f0769b8199796aeca",
+        "token0": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x2e98bd0c5204573c6db6436c383fd42658b23f38",
+        "token0": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc1fc15b9eec1a4efd80202cb3d8fed72dc1ed3e9",
+            "symbol": "GRAMZ",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x32bec71ca89824504a321f3b7060c7e2e397f742",
+        "token0": {
+            "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "symbol": "USDt",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x3481ce7a08fd6280fe3f7c0779afaf766569c687",
+        "token0": {
+            "id": "0x027dbca046ca156de9622cd1e2d907d375e53aa7",
+            "symbol": "AMPL",
+            "decimals": "9"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x369e73f90034a28d6c52bebea139216415cabf5b",
+        "token0": {
+            "id": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+            "symbol": "KNC",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x3fbbd484c8db2dd7ce6056cb57e46ac677d001d5",
+        "token0": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+            "symbol": "JOE",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x3fea9e8a20b45455583cb0819a304b401d96ac74",
+        "token0": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x4199a8a7f07e563cae3968c9dfebfbdddcd8b89d",
+        "token0": {
+            "id": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+            "symbol": "MIM",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x41a293c58c46e17c6aac79f7ec8e0ffde0e26f23",
+        "token0": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xc7b5d72c836e718cda8888eaf03707faef675079",
+            "symbol": "SWAP.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x41abe98d922a7c3eb5f7378cb61c5c44bb5731ab",
+        "token0": {
+            "id": "0x6f11da47bb362cde2329f666b715b428410fcacf",
+            "symbol": "SHADY",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x42845783dee627f47b40b5ad7f1c5147c052a21c",
+        "token0": {
+            "id": "0x111111111111ed1d73f860f57b2798b683f2d325",
+            "symbol": "YUSD",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x42c61569839846901f0f3e651f95b1d5e48d91c1",
+        "token0": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xd036414fa2bcbb802691491e323bff1348c5f4ba",
+            "symbol": "MU",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x43530d87538762ece313c10254a2e875b36e29e8",
+        "token0": {
+            "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "symbol": "USDt",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x436892205cd3b5cfec2ee832406cf7dc940fa6ae",
+        "token0": {
+            "id": "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30",
+            "symbol": "DCAU",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x250bdca7d1845cd543bb55e7d82dca24d48e9f0f",
+            "symbol": "DCAR",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x47c6a9d36de86767460b02b3654692d85686163b",
+        "token0": {
+            "id": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+            "symbol": "wMEMO",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x49851f828916b9aad959044ebadb45b8d7ad8d7e",
+        "token0": {
+            "id": "0x2ff0ceea6eec82e7b32a398dcd9c97d1f95359c1",
+            "symbol": "DEX",
+            "decimals": "12"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x4c38652ddd7a15ed38fefab59d9b84eb32234d5a",
+        "token0": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x6f11da47bb362cde2329f666b715b428410fcacf",
+            "symbol": "SHADY",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x4c7424d697dd7c5697802c9302adac999ef600b7",
+        "token0": {
+            "id": "0x63682bdc5f875e9bf69e201550658492c9763f89",
+            "symbol": "BSGG",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x4ded804a5724e1ead4efe3dd2702ec56abe018f7",
+        "token0": {
+            "id": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+            "symbol": "JOE",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x518008472ab60b4450f9077ab6fcf72456613729",
+        "token0": {
+            "id": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+            "symbol": "KNC",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x51a358b21b8c81ede9aeb8bd6f3814f6e7249f08",
+        "token0": {
+            "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "symbol": "USDt",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x53cfb104bf1ccde49b7db7775d3213bf173a0e04",
+        "token0": {
+            "id": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+            "symbol": "sAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "symbol": "USDt",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x541c1f01d180633db6cb5df2e1da58bebbcb5ede",
+        "token0": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xe7462905b79370389e8180e300f58f63d35b725f",
+            "symbol": "yyJOE",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x55f7f3399c516f2cc61bffb13fd264eea1ed3cba",
+        "token0": {
+            "id": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+            "symbol": "wMEMO",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x588c5986aaf8ebcf221cf14592732f3bf3a64226",
+        "token0": {
+            "id": "0x63682bdc5f875e9bf69e201550658492c9763f89",
+            "symbol": "BSGG",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x5d021f1f9faa67da47d43bba3d6d37e453964ae2",
+        "token0": {
+            "id": "0x63682bdc5f875e9bf69e201550658492c9763f89",
+            "symbol": "BSGG",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "symbol": "USDt",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x5e34920da99cca20bcdd5eb09fdf6b3fb171593d",
+        "token0": {
+            "id": "0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
+            "symbol": "YAK",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x6038373de7f64da99b2a31951628b7d778b2c3cf",
+        "token0": {
+            "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "symbol": "USDt",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x614c3d17411eb94bcf95fec59c17e067dd5dbdd0",
+        "token0": {
+            "id": "0x6d146aee8c1fd35433d41c23bc3f9cbded20604e",
+            "symbol": "DEX",
+            "decimals": "12"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x61fc4b8089fe2288c5b02ee14f28334240927c95",
+        "token0": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x647070672228a512f5dbf2a5a807e46a942c7353",
+        "token0": {
+            "id": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+            "symbol": "BTC.b",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0x50b7545627a5162f82a992c33b87adc75187b218",
+            "symbol": "WBTC.e",
+            "decimals": "8"
+        }
+    },
+    {
+        "id": "0x64bad0e094227271ea42ae63540aa8e8ebd81fb6",
+        "token0": {
+            "id": "0x63682bdc5f875e9bf69e201550658492c9763f89",
+            "symbol": "BSGG",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+            "symbol": "DAI.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x671cdf9046f08c8492b7b54714f74b3e86aaa68e",
+        "token0": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xc7b5d72c836e718cda8888eaf03707faef675079",
+            "symbol": "SWAP.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x67e5f1dd0c17945213d2a6b084dcc8f7192b3671",
+        "token0": {
+            "id": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+            "symbol": "JOE",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x69f35dab4699a969414ff9ea9649c9f818eba617",
+        "token0": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xe7462905b79370389e8180e300f58f63d35b725f",
+            "symbol": "yyJOE",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x6fd1e887499950032d9ec503287eac3402be3819",
+        "token0": {
+            "id": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+            "symbol": "KNC",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x5947bb275c521040051d82396192181b413227a3",
+            "symbol": "LINK.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x70094b7d30fb47d0fabbf378676705a2dbd00956",
+        "token0": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xf7d9281e8e363584973f946201b82ba72c965d27",
+            "symbol": "yyAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x71bdca5a5481f766e6a14557b9ca994bf104410e",
+        "token0": {
+            "id": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+            "symbol": "wMEMO",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+            "symbol": "MIM",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x733cd9cd0294c025ed94edaf10fa715b198f8229",
+        "token0": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xd3ac016b1b8c80eeadde4d186a9138c9324e4189",
+            "symbol": "OK",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x7377840ac8a6a7db55e28cc3d9e22f7701a5788f",
+        "token0": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xfab550568c688d5d8a52c7d794cb93edc26ec0ec",
+            "symbol": "axlUSDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x7c3a827894b1e09abbbf29264ab32eb28862ed5c",
+        "token0": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x7cc5be39ce2edde09998cf1431121541edfff4ca",
+        "token0": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x7d956ae2a3dfe3a93e39c75e74d55b5548ef44b1",
+        "token0": {
+            "id": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+            "symbol": "wMEMO",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x7dad114c732a224aa52b9420a3e2222e36cbcb43",
+        "token0": {
+            "id": "0x77777777777d4554c39223c354a05825b2e8faa3",
+            "symbol": "YETI",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xf7d9281e8e363584973f946201b82ba72c965d27",
+            "symbol": "yyAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x8146cb2342c48c88c128f7c45009677962b1193e",
+        "token0": {
+            "id": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+            "symbol": "MIM",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x81fe01b186c80e1ff65ca345da4e230ecf4c2add",
+        "token0": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+            "symbol": "GMX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x86bfa2715a437380722cdedc470b004bbc59f25b",
+        "token0": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x86db3ad0ed6b3965bb6dc59b29e0b5a06059a32d",
+        "token0": {
+            "id": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+            "symbol": "BTC.b",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x877459bc84610b1bde88ca2179c9712b62de7f4c",
+        "token0": {
+            "id": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+            "symbol": "MIM",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x894399ccdd943ff5648ff30fd768bdeddb0a6f3b",
+        "token0": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x897a83cf016f33fb061e756e4ca89baa9f17990a",
+        "token0": {
+            "id": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+            "symbol": "sAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x8b2dd40a0d652f6b53b9695679902d2f19e86b24",
+        "token0": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x8bcd0ee7d092812ba02adc548e58f7adab96357c",
+        "token0": {
+            "id": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+            "symbol": "JOE",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xe7462905b79370389e8180e300f58f63d35b725f",
+            "symbol": "yyJOE",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x8c1edb51f5fab2a217e468edcb27276f69b925f1",
+        "token0": {
+            "id": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+            "symbol": "KNC",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+            "symbol": "AAVE.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x8d0c1656c7887868a7e37187ef9d5e2f23cfc4d6",
+        "token0": {
+            "id": "0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
+            "symbol": "YAK",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x90657009c14f8ba2d8f8f90cc91af8a3c9ec98c4",
+        "token0": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x92e220e9afab618fcefa06648f1ac7a7754c70c5",
+        "token0": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xce1bffbd5374dac86a2893119683f4911a2f7814",
+            "symbol": "SPELL",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x92e49b6bd087a88c21cfaec91f37f40502ed59f2",
+        "token0": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+            "symbol": "QI",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x93a0a8744c9ec41897a56f24fca0323a088cee41",
+        "token0": {
+            "id": "0x6f11da47bb362cde2329f666b715b428410fcacf",
+            "symbol": "SHADY",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x93e8b3e3d177a99741432a835125797eb54561ee",
+        "token0": {
+            "id": "0x50b7545627a5162f82a992c33b87adc75187b218",
+            "symbol": "WBTC.e",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x94e4f053e632c8262d8e0040f2ca52475ad701ba",
+        "token0": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc1fc15b9eec1a4efd80202cb3d8fed72dc1ed3e9",
+            "symbol": "GRAMZ",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0x95ed9aedb832e3f839634ef9de35325cfe0af11a",
+        "token0": {
+            "id": "0x63682bdc5f875e9bf69e201550658492c9763f89",
+            "symbol": "BSGG",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x96d0cdbd0707221a4d2c2ee1759d3fe3cf71753f",
+        "token0": {
+            "id": "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30",
+            "symbol": "DCAU",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x9badc35e320d0b95b1de78a69a9364fabcdca386",
+        "token0": {
+            "id": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+            "symbol": "wMEMO",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "symbol": "USDt",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0x9f2b29a55b3af786ecd3d44f06c744d1b1b86534",
+        "token0": {
+            "id": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+            "symbol": "wMEMO",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xa19b2fa5dfc9eee09173c2aba7f94e3dd84188a4",
+        "token0": {
+            "id": "0x6902a8ecf99a732e5a73491afc14e5e135ee4234",
+            "symbol": "PRINT",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xa328992f0b7640c9d91fb596d218c772d2766eb7",
+        "token0": {
+            "id": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+            "symbol": "sAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x77777777777d4554c39223c354a05825b2e8faa3",
+            "symbol": "YETI",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xa34b4415b97fca6a34eab592a87a07d7f4370a31",
+        "token0": {
+            "id": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+            "symbol": "BTC.b",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xa59d6c51b875dff1038a5bba6344b9759a9de050",
+        "token0": {
+            "id": "0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b",
+            "symbol": "MAI",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xa610b43d31907eaf041b39b9cb1837250057c0e2",
+        "token0": {
+            "id": "0x111111111111ed1d73f860f57b2798b683f2d325",
+            "symbol": "YUSD",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+            "symbol": "sAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xa6b11aefb85e51cc62d3a00e98dcb54853cd3623",
+        "token0": {
+            "id": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+            "symbol": "KNC",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x5947bb275c521040051d82396192181b413227a3",
+            "symbol": "LINK.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xa83e7eebcf91097d116feacfc0d53ea5e4d03fa7",
+        "token0": {
+            "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "symbol": "USDt",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xac1245c717cb4ef8c311004af8913abc275012e4",
+        "token0": {
+            "id": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+            "symbol": "GMX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xacc68cf5283deb2feea76fa3d8f949eacadc01d5",
+        "token0": {
+            "id": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+            "symbol": "wMEMO",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xacfdbe5abc9067074c9c0c82a32eab7bf0a9d653",
+        "token0": {
+            "id": "0x6902a8ecf99a732e5a73491afc14e5e135ee4234",
+            "symbol": "PRINT",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xad5bb14d3d463bb5abccda142cd31a7aaca8a006",
+        "token0": {
+            "id": "0x027dbca046ca156de9622cd1e2d907d375e53aa7",
+            "symbol": "AMPL",
+            "decimals": "9"
+        },
+        "token1": {
+            "id": "0x111111111111ed1d73f860f57b2798b683f2d325",
+            "symbol": "YUSD",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xad6fd2f0b3b85ecc7b8b9e7a04ed1289d55fda86",
+        "token0": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xaf560bab0b47544465563f81846fafa90a0487ec",
+        "token0": {
+            "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "symbol": "USDt",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xaf8b78849aa2567da02f49c7cbf755c672de1956",
+        "token0": {
+            "id": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+            "symbol": "BTC.b",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xafd37d91117a4eb2197a508463c622be0893d5b9",
+        "token0": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+            "symbol": "DAI.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xb1abc95971c880cfae308e801f82b270ce00ced9",
+        "token0": {
+            "id": "0x6902a8ecf99a732e5a73491afc14e5e135ee4234",
+            "symbol": "PRINT",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xb2a63231360a604a5c8a704b0a1442fde35563f2",
+        "token0": {
+            "id": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+            "symbol": "JOE",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xb30e61451231415a2c69fbdf0ea966e2fc15c64f",
+        "token0": {
+            "id": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+            "symbol": "KNC",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+            "symbol": "AAVE.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xb59b81535ef2428809a4046a96278c46c2ccd782",
+        "token0": {
+            "id": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+            "symbol": "GMX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xb777b5f9e0b3c00cd3cfc0c4ef6c0f81e9d6bbf6",
+        "token0": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xef8e53d7ad4c6b515adcc423727d28ebf5d71506",
+            "symbol": "RPT",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xb77f7d413cab5869fe6dceea61404ac3ce56f1f2",
+        "token0": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x5947bb275c521040051d82396192181b413227a3",
+            "symbol": "LINK.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xb84e9098bbf0f0e3c56669be5ded52ea4f415e93",
+        "token0": {
+            "id": "0x3712871408a829c5cd4e86da1f4ce727efcd28f6",
+            "symbol": "GLCR",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xb99555dcc805031f33156e67604e3de3367546b9",
+        "token0": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xbdd2a756129534961f237597c1313953e6ab64a2",
+        "token0": {
+            "id": "0x111111111111ed1d73f860f57b2798b683f2d325",
+            "symbol": "YUSD",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xe7462905b79370389e8180e300f58f63d35b725f",
+            "symbol": "yyJOE",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xc0686cc5f2f77ed2b058a46eb1167fb46fe3a927",
+        "token0": {
+            "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "symbol": "USDt",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xc3f66370ae1706789aaf283c9aae8024398e4e9e",
+        "token0": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xc4968eda54f3dc16d1ad3913ef16347bf6c7a1ad",
+        "token0": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+            "symbol": "DAI.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xc52fd11b4fafca932a6817ed94b44242ef282b99",
+        "token0": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xe7dda817b449a05bcb55daef2b2e8c095ad80993",
+            "symbol": "TMV-BT",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xc592264da1af4bf65bd55c9ba6576a63646b6190",
+        "token0": {
+            "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "symbol": "USDt",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xd3ac016b1b8c80eeadde4d186a9138c9324e4189",
+            "symbol": "OK",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xc5c51c44adc9af5f3208119f24ad23f1cf6178d9",
+        "token0": {
+            "id": "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30",
+            "symbol": "DCAU",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xc6e01a1f168a99771a56227b40fd21f1999cf2c5",
+        "token0": {
+            "id": "0x3712871408a829c5cd4e86da1f4ce727efcd28f6",
+            "symbol": "GLCR",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xc8ed2514246f19b975326faa83834a6d050aff26",
+        "token0": {
+            "id": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+            "symbol": "KNC",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x3b55e45fd6bd7d4724f5c47e0d1bcaedd059263e",
+            "symbol": "miMatic",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xcb178a279f9cd423e03ccaba921f80e82568fa32",
+        "token0": {
+            "id": "0x63682bdc5f875e9bf69e201550658492c9763f89",
+            "symbol": "BSGG",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xcb2625521256176607e2ebf6bf903440909e88de",
+        "token0": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xcda4d1b0677806f702944158538a583297ba16df",
+        "token0": {
+            "id": "0x111111111111ed1d73f860f57b2798b683f2d325",
+            "symbol": "YUSD",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x77777777777d4554c39223c354a05825b2e8faa3",
+            "symbol": "YETI",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xd0a06776de66a53e94601c7200f00b6584c1861e",
+        "token0": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+            "symbol": "DAI.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xd2059441535634085fe09921f8439e9ba3dfffeb",
+        "token0": {
+            "id": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+            "symbol": "BTC.b",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0xb279f8dd152b99ec1d84a489d32c35bc0c7f5674",
+            "symbol": "STEAK",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xd76ed896d7523082d50713140fc5a53e0227eda6",
+        "token0": {
+            "id": "0xab769e1890273cc33a4ecaa371e87d653c1d18d8",
+            "symbol": "BBEARS",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xd7dbfb27b52906594a65eb84226953316b37059e",
+        "token0": {
+            "id": "0x50b7545627a5162f82a992c33b87adc75187b218",
+            "symbol": "WBTC.e",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xdb7edef774625b2b19b6846713f96821720c7164",
+        "token0": {
+            "id": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+            "symbol": "KNC",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b",
+            "symbol": "MAI",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xdc0fad0e63ec6c698b9f178accde577015f88d7c",
+        "token0": {
+            "id": "0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
+            "symbol": "YAK",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xddd070f7a63bb2325a19c096e6b685dfe2a6d202",
+        "token0": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xc1fc15b9eec1a4efd80202cb3d8fed72dc1ed3e9",
+            "symbol": "GRAMZ",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xde7a30e6c50cbe00af1fcf594ad5582354e6006c",
+        "token0": {
+            "id": "0x3b55e45fd6bd7d4724f5c47e0d1bcaedd059263e",
+            "symbol": "miMatic",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xdf9aa2156be229783e8b18c38e51b0c01778c9ca",
+        "token0": {
+            "id": "0x111111111111ed1d73f860f57b2798b683f2d325",
+            "symbol": "YUSD",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+            "symbol": "sAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xe3ca64d7fcdcab5035c06d0900f819e32f043231",
+        "token0": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xe431f026f58223306fbd18f09ab628fffb19cdce",
+        "token0": {
+            "id": "0x5947bb275c521040051d82396192181b413227a3",
+            "symbol": "LINK.e",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xab769e1890273cc33a4ecaa371e87d653c1d18d8",
+            "symbol": "BBEARS",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xe5e761b47ec3c5da69908de0ab8fb1623671b6cb",
+        "token0": {
+            "id": "0x111111111111ed1d73f860f57b2798b683f2d325",
+            "symbol": "YUSD",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xe9147826213a50dc180e157e0e715fd4bbe01a27",
+        "token0": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xebd012e3f1d594201d2a8acd338c1a2b438f6615",
+        "token0": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xecff5b1030e6eabfa750fa0837a9fa7a8f575023",
+        "token0": {
+            "id": "0x63682bdc5f875e9bf69e201550658492c9763f89",
+            "symbol": "BSGG",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xf22369517804d2c12670cb4b1f1605ceb616cc36",
+        "token0": {
+            "id": "0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b",
+            "symbol": "MAI",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xf58fe72fc6f7915630818bedc05af4bc0f4e204f",
+        "token0": {
+            "id": "0xa12eb4d5cb7911e8d471fe708a9f3119fd216a1a",
+            "symbol": "AMiE",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xf64a4a42a15f648e4b0124d6522d339913a9512b",
+        "token0": {
+            "id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+            "symbol": "WETH.e",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xf6838844e79941b864cbb7d73b0bf603bbea97d2",
+        "token0": {
+            "id": "0x100cc3a819dd3e8573fd2e46d1e66ee866068f30",
+            "symbol": "DCAU",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xf80c6f350ccf61034d37b7d7a4fb72fa40737551",
+        "token0": {
+            "id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+            "symbol": "USDC",
+            "decimals": "6"
+        },
+        "token1": {
+            "id": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "symbol": "USDT.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xf85afc9a9c641995b2ac37dd1897dfad5a516f5e",
+        "token0": {
+            "id": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+            "symbol": "wMEMO",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xf8cdf29b1b7995b002982580e92a99748047aa58",
+        "token0": {
+            "id": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+            "symbol": "QI",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xd501281565bf7789224523144fe5d98e8b28f267",
+            "symbol": "1INCH.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xfd52a99ce53553f73f6dc217e9b8b5785c387037",
+        "token0": {
+            "id": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+            "symbol": "wMEMO",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "symbol": "USDC.e",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xfe124e913cff3ff9e606aa294b974b36add67527",
+        "token0": {
+            "id": "0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+            "symbol": "BTC.b",
+            "decimals": "8"
+        },
+        "token1": {
+            "id": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "symbol": "USDt",
+            "decimals": "6"
+        }
+    },
+    {
+        "id": "0xfe67b2b326f6be8800dab3c779960445459e361b",
+        "token0": {
+            "id": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+            "symbol": "KNC",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+            "symbol": "AAVE.e",
+            "decimals": "18"
+        }
+    },
+    {
+        "id": "0xfee33cb44e830aa9d8d392c35810b594c65f2518",
+        "token0": {
+            "id": "0x63682bdc5f875e9bf69e201550658492c9763f89",
+            "symbol": "BSGG",
+            "decimals": "18"
+        },
+        "token1": {
+            "id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "symbol": "WAVAX",
+            "decimals": "18"
+        }
+    }
+]

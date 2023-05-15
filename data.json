@@ -1,0 +1,802 @@
+[
+    {
+        "transaction": {
+            "id": "0x66d34e8129f298d5189203e347617b7f8ffb34b48dd498660723743441825474"
+        },
+        "amount0": "-41.355938153188941961",
+        "amount1": "0.046519519727294274",
+        "timestamp": "1662801537"
+    },
+    {
+        "transaction": {
+            "id": "0xbb27ed1a089a3550abb756a5fddb428db35cc3d4a693b8ce16526c74e8d629e6"
+        },
+        "amount0": "-49.084521973495054371",
+        "amount1": "0.055371160448002647",
+        "timestamp": "1662802277"
+    },
+    {
+        "transaction": {
+            "id": "0x96d482bf74e76e5ec524a6dd0eef7927ee009932c4406d3c71721863729c17dc"
+        },
+        "amount0": "-40.766180197022635518",
+        "amount1": "0.046063082953693653",
+        "timestamp": "1662802381"
+    },
+    {
+        "transaction": {
+            "id": "0xa971da3b2adf13725611edd8a0980536fd257718ebb2f47751f5bc92de620bf9"
+        },
+        "amount0": "-41.948090978090526895",
+        "amount1": "0.047470417808471528",
+        "timestamp": "1662802481"
+    },
+    {
+        "transaction": {
+            "id": "0xed6df599ae25422121fba4c5cfbffec22718cb26ffd0879ec469ec557303cac0"
+        },
+        "amount0": "-30.794362520762495229",
+        "amount1": "0.034894812062968883",
+        "timestamp": "1662804231"
+    },
+    {
+        "transaction": {
+            "id": "0x65e1558d2d7751f402a2e5ca8985e65aeb9cff55ba7cab865f5a32c2d269b27f"
+        },
+        "amount0": "-20.083257679093495161",
+        "amount1": "0.0227786940148745",
+        "timestamp": "1662804268"
+    },
+    {
+        "transaction": {
+            "id": "0x23a5f6e5b69c7d12f49e113487a1d8aed40797e7981215117ef784c22c4f4f74"
+        },
+        "amount0": "-49.115084742076547337",
+        "amount1": "0.055777795088048526",
+        "timestamp": "1662804328"
+    },
+    {
+        "transaction": {
+            "id": "0x6b8565c31549f13096d0c0e89732693caff0b79a04462b814938cf7b2fdb04b1"
+        },
+        "amount0": "-48.967347719043983815",
+        "amount1": "0.055710253016308073",
+        "timestamp": "1662804372"
+    },
+    {
+        "transaction": {
+            "id": "0xb9df6c13410fabef2b7cdba5d9acfb7e08c98e6f40055fb52788fcb9a8210b7b"
+        },
+        "amount0": "-40.787515270696335295",
+        "amount1": "0.046480628667474215",
+        "timestamp": "1662804436"
+    },
+    {
+        "transaction": {
+            "id": "0xb125ff75f71a58cb5f0370c08840781d41722803285ce49c687df97c7a23d4d4"
+        },
+        "amount0": "-34.192525247163678976",
+        "amount1": "0.039018869232747614",
+        "timestamp": "1662804536"
+    },
+    {
+        "transaction": {
+            "id": "0xd3c0ebf29e2b18cec61c38c02342305367a61d6dae090ee2ff690f17964faaf4"
+        },
+        "amount0": "-39.052976265948394004",
+        "amount1": "0.044625501881776168",
+        "timestamp": "1662804604"
+    },
+    {
+        "transaction": {
+            "id": "0x3d0075daa4a66e96165d585a1556942ce5d6ac8aa95d99813784573c7910b678"
+        },
+        "amount0": "-34.131752532246430307",
+        "amount1": "0.039054654572926931",
+        "timestamp": "1662804626"
+    },
+    {
+        "transaction": {
+            "id": "0x988bfff2984e971dd3c5e2f7706019dcd43c991beaa9babd23a573657aaae8ea"
+        },
+        "amount0": "-48.672917441087818862",
+        "amount1": "0.05577820484137881",
+        "timestamp": "1662804680"
+    },
+    {
+        "transaction": {
+            "id": "0x94a5bf7e4fbdd943fec0df22c987eb0ef79d84d88c71a013d8e19dfdd602d309"
+        },
+        "amount0": "-33.450981736841569891",
+        "amount1": "0.038392250046210231",
+        "timestamp": "1662804748"
+    },
+    {
+        "transaction": {
+            "id": "0x70d62d753397e31b97415bdb17c5ab4e73361bb297233ade20521dd0e7142d17"
+        },
+        "amount0": "51.19649055444632161",
+        "amount1": "-0.058387959504433825",
+        "timestamp": "1662805064"
+    },
+    {
+        "transaction": {
+            "id": "0xe1413c7baab86988c177dada333303eccfd2fbb9d29e4e527d425d9a5afebf77"
+        },
+        "amount0": "39.384615384615384616",
+        "amount1": "-0.044842171120026624",
+        "timestamp": "1662805108"
+    },
+    {
+        "transaction": {
+            "id": "0x44b6b96254fcbd68dfeadad6507dc84fa5482ddded6045eb55e9cdde398cf5ef"
+        },
+        "amount0": "-38.529950765558537595",
+        "amount1": "0.04413297458578621",
+        "timestamp": "1662805780"
+    },
+    {
+        "transaction": {
+            "id": "0x2ebf18e054bd830166b70a15fb47ba7a6de0558fc0a44b84de9c9641ed181181"
+        },
+        "amount0": "-35.230536408867541983",
+        "amount1": "0.040408671140604002",
+        "timestamp": "1662806218"
+    },
+    {
+        "transaction": {
+            "id": "0xfa901b4a8f0e3678a043be9e6e9926b2ea5f56ceaa1ee0220fcfed009473124e"
+        },
+        "amount0": "-38.810461130800995523",
+        "amount1": "0.044575624290838341",
+        "timestamp": "1662806270"
+    },
+    {
+        "transaction": {
+            "id": "0xf25170cb1c0b721418546c6a4b4a46530507a18ff62b3f9426684e53cc914846"
+        },
+        "amount0": "48.82762829967956869",
+        "amount1": "-0.055734542621355088",
+        "timestamp": "1662806924"
+    },
+    {
+        "transaction": {
+            "id": "0xe1b948d680b00adfd417a53741abef897f7731ecb61d8af581ab5d5635e57250"
+        },
+        "amount0": "48.967100229533282327",
+        "amount1": "-0.055793307918650328",
+        "timestamp": "1662806997"
+    },
+    {
+        "transaction": {
+            "id": "0xbc95eee0120e991a684da0c778bb13d66520171e9f40a07253cb99b3ee038a83"
+        },
+        "amount0": "30.67955207853965332",
+        "amount1": "-0.034905292958031959",
+        "timestamp": "1662807311"
+    },
+    {
+        "transaction": {
+            "id": "0x4cba03ac590a701c4f68ef7f347e8efedc75b2ca4d6bcfe1f9b6b1ae17228026"
+        },
+        "amount0": "32.904148783977110157",
+        "amount1": "-0.037392613231952114",
+        "timestamp": "1662807589"
+    },
+    {
+        "transaction": {
+            "id": "0x827c9e90d8889600897310684c97e964695fab21f5c470132e5e75c009e6c23d"
+        },
+        "amount0": "44.455825864276568502",
+        "amount1": "-0.050448373725764364",
+        "timestamp": "1662807699"
+    },
+    {
+        "transaction": {
+            "id": "0xfe7d78e6e38dc5e65e7fc05ef613d431577a59a38ce206e1964062eed7445b8d"
+        },
+        "amount0": "63.641962636009033053",
+        "amount1": "-0.072077727669470894",
+        "timestamp": "1662807891"
+    },
+    {
+        "transaction": {
+            "id": "0x7237cbba178d3719c7a55f0ac4ca66543de30ecf524a4abdb94cedb01a083d74"
+        },
+        "amount0": "31.820981318004516527",
+        "amount1": "-0.035975917126478053",
+        "timestamp": "1662808823"
+    },
+    {
+        "transaction": {
+            "id": "0x4e962a7dedb7352b18eb2a16070ee2d3b4504fc36d33474b3a539a392f33a893"
+        },
+        "amount0": "38.247995064774830352",
+        "amount1": "-0.043186686634511956",
+        "timestamp": "1662808909"
+    },
+    {
+        "transaction": {
+            "id": "0xe4c8858ba76fbd2dcdadadfa5f0af8bc0ead65874806a8c89a23bc066d820937"
+        },
+        "amount0": "38.295243977764051884",
+        "amount1": "-0.043179534530943889",
+        "timestamp": "1662808943"
+    },
+    {
+        "transaction": {
+            "id": "0xc3367ac8b739a0a8a73e88b01d175962890a5018f07bcec83c6f4491e1af2179"
+        },
+        "amount0": "63.993394230273004077",
+        "amount1": "-0.072020492537353598",
+        "timestamp": "1662809123"
+    },
+    {
+        "transaction": {
+            "id": "0xab40b26abf4e215cdc52b56ffa81860ef4346957d84f197f75f0d1657a44e409"
+        },
+        "amount0": "28.556647697878944646",
+        "amount1": "-0.032084440141227881",
+        "timestamp": "1662809241"
+    },
+    {
+        "transaction": {
+            "id": "0xa083af303459ee8061284feaf77906357fa2426cf7624752be2b1b2bdad2313c"
+        },
+        "amount0": "47.628908676744667634",
+        "amount1": "-0.05343846124988608",
+        "timestamp": "1662810057"
+    },
+    {
+        "transaction": {
+            "id": "0x499835bf4f1583bbb39dac7b4065ccb91f2d3e3e8316431ff317ce09015f60a3"
+        },
+        "amount0": "-47.234091667761854023",
+        "amount1": "0.053314789058878071",
+        "timestamp": "1662811481"
+    },
+    {
+        "transaction": {
+            "id": "0x512787e173f78fe4e6986623b0a5d9a5e7b3e41398c28463b22188ac2b0b5c00"
+        },
+        "amount0": "-67.667420775378961012",
+        "amount1": "0.076539487417372144",
+        "timestamp": "1662811834"
+    },
+    {
+        "transaction": {
+            "id": "0x4fefc18248928ec30c9b8a49833e27984b313377f98c04a906efcee581e38878"
+        },
+        "amount0": "-38.107991385628438662",
+        "amount1": "0.043188018807685611",
+        "timestamp": "1662811870"
+    },
+    {
+        "transaction": {
+            "id": "0xd27120fbc9d33dd9d2ae0a9934c94d9dfb82e60f31987fd73b75f2bb32efea07"
+        },
+        "amount0": "-30.689544591569156561",
+        "amount1": "0.034824548189329033",
+        "timestamp": "1662811890"
+    },
+    {
+        "transaction": {
+            "id": "0x2ad61c2c2c67255448e18f707dc5469e54f0b7b9ef0cc45112f25f4625a52b49"
+        },
+        "amount0": "57.746841969579788605",
+        "amount1": "-0.065102621300802926",
+        "timestamp": "1662813009"
+    },
+    {
+        "transaction": {
+            "id": "0x1f07b458d0672b2cdec87720a0c447191a7cf5dccb05c12cbb08ae7c82077299"
+        },
+        "amount0": "41.352217512664116613",
+        "amount1": "-0.046535307335280295",
+        "timestamp": "1662813235"
+    },
+    {
+        "transaction": {
+            "id": "0x65fdbaaedd590ba28de03045cf5e80e451e3f7e1b1c69f0741ef4dbf2b34b345"
+        },
+        "amount0": "17.552010737700686593",
+        "amount1": "-0.019730754019211806",
+        "timestamp": "1662813503"
+    },
+    {
+        "transaction": {
+            "id": "0xd4af4bf3fc288cdeff83eefa7afacccd54b490a976ab996254795600526863ea"
+        },
+        "amount0": "68.308838749741254399",
+        "amount1": "-0.076667745109258177",
+        "timestamp": "1662813577"
+    },
+    {
+        "transaction": {
+            "id": "0xd310e58253debd0cbb29a71432c6d805e8d9d1444b0770cf114d018b0a9feb8e"
+        },
+        "amount0": "-31.82685791255746219",
+        "amount1": "0.035913029972910678",
+        "timestamp": "1662814921"
+    },
+    {
+        "transaction": {
+            "id": "0xfa64108b79520cd044d0bebd9e11321d213ee3385b06e44ccdc2057506dd4084"
+        },
+        "amount0": "-35.727915209458754614",
+        "amount1": "0.040364806145985192",
+        "timestamp": "1662815529"
+    },
+    {
+        "transaction": {
+            "id": "0xc21b14ba244877f81c4ab52bc218932db353ced277b2ce5949d6e7774a49777e"
+        },
+        "amount0": "51.872600892208735345",
+        "amount1": "-0.058236524334547349",
+        "timestamp": "1662816353"
+    },
+    {
+        "transaction": {
+            "id": "0x69ef70643e5752f6f9b4b3bdb14aa500b3f0f6a5d54bf1536ee0863323515c01"
+        },
+        "amount0": "24.097636977408465333",
+        "amount1": "-0.027016577157309652",
+        "timestamp": "1662816383"
+    },
+    {
+        "transaction": {
+            "id": "0x2508358a65965bdae3615706ac687eb18e3c15cab8d3b1daae6e45a6552281a7"
+        },
+        "amount0": "-433.492919223384612701",
+        "amount1": "0.492627126940150729",
+        "timestamp": "1662817101"
+    },
+    {
+        "transaction": {
+            "id": "0x5be0d11892499be2a662a52dd10c948494848165e0d488b4fd65f37b5e8b7967"
+        },
+        "amount0": "41.286060793724518759",
+        "amount1": "-0.04697330250957621",
+        "timestamp": "1662817131"
+    },
+    {
+        "transaction": {
+            "id": "0xf9b29e8a4202441b720177aae329478efe21e7aa857eea54af1f7b9cd81d141b"
+        },
+        "amount0": "20",
+        "amount1": "-0.02272945857797142",
+        "timestamp": "1662817157"
+    },
+    {
+        "transaction": {
+            "id": "0x0d82cff36d673c9f39af278212773250029bdb7fcb94fa6b27c1a5d375559870"
+        },
+        "amount0": "41.318045656440450366",
+        "amount1": "-0.046904004113220103",
+        "timestamp": "1662817191"
+    },
+    {
+        "transaction": {
+            "id": "0x62b356f869c0b1b1a9a3405c84575f28fdf5033b61bb699aa3f4dba4e7607d61"
+        },
+        "amount0": "61.989874987085442711",
+        "amount1": "-0.070237321180714116",
+        "timestamp": "1662817221"
+    },
+    {
+        "transaction": {
+            "id": "0x748a5168fac4c0842b4b990e501f7c6564d8d0186d7689e8f100eca5ae6c99cf"
+        },
+        "amount0": "51.690271890830145767",
+        "amount1": "-0.058445565912076005",
+        "timestamp": "1662817259"
+    },
+    {
+        "transaction": {
+            "id": "0xa10c70bc6eb3c00dc7dbb313bc2db3ce3c52ff3206100c94e81634a812d81697"
+        },
+        "amount0": "72.261794157117786725",
+        "amount1": "-0.081520376125492552",
+        "timestamp": "1662817349"
+    },
+    {
+        "transaction": {
+            "id": "0x0a421b8370963e45d9efd5e5c0125184ee8e9bef405d7fc9d1f326a042f90d08"
+        },
+        "amount0": "21.529862333091812441",
+        "amount1": "-0.024246799061708525",
+        "timestamp": "1662817403"
+    },
+    {
+        "transaction": {
+            "id": "0x507cef0af73df64f47d83f2fa6e64d9ba874e9049fca25b22da09dc44cd6ea25"
+        },
+        "amount0": "38.567207506090923229",
+        "amount1": "-0.043386473586287292",
+        "timestamp": "1662817505"
+    },
+    {
+        "transaction": {
+            "id": "0xfee52fdf88eaede42aa7c634964dd43807ab849086d303fc0263fffecf1b60c1"
+        },
+        "amount0": "-208.290675509493000942",
+        "amount1": "0.236468054151046965",
+        "timestamp": "1662817787"
+    },
+    {
+        "transaction": {
+            "id": "0xe68159ce80917b1260f8009f5c15dfea7010606842a2b1111bf9c60dae384a6a"
+        },
+        "amount0": "22.81447682256559162",
+        "amount1": "-0.025833242162032909",
+        "timestamp": "1662817801"
+    },
+    {
+        "transaction": {
+            "id": "0xa3e7222f80e2bdabecd5cd18f4185ea0dff4215068680b232229dd17d76c5b93"
+        },
+        "amount0": "103.567914660038320128",
+        "amount1": "-0.117000537435561137",
+        "timestamp": "1662817825"
+    },
+    {
+        "transaction": {
+            "id": "0xf8e8c811a3017148f4f8abe691b7f8f83d7bdc81276b1edc0ec7d4c4a79a52db"
+        },
+        "amount0": "51.826898160145115314",
+        "amount1": "-0.058382653871279521",
+        "timestamp": "1662818005"
+    },
+    {
+        "transaction": {
+            "id": "0x0108a45da1e7ecf31889e42e651e3e963d27468a67d9ce25ede57acb29b0052f"
+        },
+        "amount0": "47.935256277235941067",
+        "amount1": "-0.053900425387805094",
+        "timestamp": "1662821735"
+    },
+    {
+        "transaction": {
+            "id": "0x7fbf4dcfea77bffa96b0825c1d3065c23cc157e1e1bdd7d32d22eb46f0135672"
+        },
+        "amount0": "32.19106957424714434",
+        "amount1": "-0.036144106364405517",
+        "timestamp": "1662821969"
+    },
+    {
+        "transaction": {
+            "id": "0x5221d034bbc5168966b500638b91da2fd9a0fc008d3c75c355e4d1ee172efbe7"
+        },
+        "amount0": "-25.935130919468954048",
+        "amount1": "0.029292196470701928",
+        "timestamp": "1662823759"
+    },
+    {
+        "transaction": {
+            "id": "0x270705a3011f6ac94b40eb927013d801b6a54e4a64ae4d526f8abb8f90907249"
+        },
+        "amount0": "-64.034714154519061669",
+        "amount1": "0.072442748498924501",
+        "timestamp": "1662824313"
+    },
+    {
+        "transaction": {
+            "id": "0xb9daddd9a4a01edc47df21670df17aa8e302d314d283d72e500bbbee7741a1b0"
+        },
+        "amount0": "-29.817385373509805455",
+        "amount1": "0.033790556252644241",
+        "timestamp": "1662825581"
+    },
+    {
+        "transaction": {
+            "id": "0x8df300f36a7a9a7d973e298c01901d4e2289958d110f17d512ecef6be3a265ae"
+        },
+        "amount0": "-50.92714163765871037",
+        "amount1": "0.057798753131736877",
+        "timestamp": "1662825617"
+    },
+    {
+        "transaction": {
+            "id": "0x3e0eba486a84512c5e55b36e84fe62b922027631c19ad14f44991f6768a2225c"
+        },
+        "amount0": "-44.496249118432877932",
+        "amount1": "0.050588646695419047",
+        "timestamp": "1662825833"
+    },
+    {
+        "transaction": {
+            "id": "0xa9a00ab76a9a57b1fc34ff13964b7de1e4846163c764b133059568baaa047e81"
+        },
+        "amount0": "-48.755746349524099004",
+        "amount1": "0.055526392534266551",
+        "timestamp": "1662825863"
+    },
+    {
+        "transaction": {
+            "id": "0x275692502d44b3275f08800790e2d46a9d97bd041ef434bb7894de22179fa31e"
+        },
+        "amount0": "-40.48271443394585627",
+        "amount1": "0.046180183240694983",
+        "timestamp": "1662825943"
+    },
+    {
+        "transaction": {
+            "id": "0xa4e1a3c2ab7ffeb0b18409b35ce777d7d165419e4e87f5222aa9a9e98935179a"
+        },
+        "amount0": "-30.636157844184075593",
+        "amount1": "0.03499358450950659",
+        "timestamp": "1662825951"
+    },
+    {
+        "transaction": {
+            "id": "0xd1223384c357a57e38c50b46750ef4f0747d991f5c76db4acd05b7e8365b5aa1"
+        },
+        "amount0": "-53.017816532695315416",
+        "amount1": "0.060652009097801365",
+        "timestamp": "1662825979"
+    },
+    {
+        "transaction": {
+            "id": "0x953c9629fca69936290cf32e64073d10d555cbc238c29b4b3d1844fb8945868c"
+        },
+        "amount0": "-40.705462471340343566",
+        "amount1": "0.046647230320699709",
+        "timestamp": "1662826049"
+    },
+    {
+        "transaction": {
+            "id": "0x11c430f25050ca3f832aefc62b30b2bdcf553aaf33a4698a54934c6d23ea7ce0"
+        },
+        "amount0": "41.139565977578936542",
+        "amount1": "-0.046861881470887271",
+        "timestamp": "1662827293"
+    },
+    {
+        "transaction": {
+            "id": "0x5f69a683fb23436b41e511f2f230ce4b452ce6ef311a4a7d5df652d0a4ed85ae"
+        },
+        "amount0": "31.272502828927065116",
+        "amount1": "-0.035575004776176783",
+        "timestamp": "1662827433"
+    },
+    {
+        "transaction": {
+            "id": "0x58591dac4dc32ebb584382f8f1d3aa994a4084e415743c3fc14e0825256b3e1a"
+        },
+        "amount0": "-56.309594071566797231",
+        "amount1": "0.064472813481442496",
+        "timestamp": "1662827455"
+    },
+    {
+        "transaction": {
+            "id": "0xad915616cf23687f217e28afb6fc6101d637c9232936698d3d25736c96c360d2"
+        },
+        "amount0": "-22.501686393722830098",
+        "amount1": "0.025801187009899672",
+        "timestamp": "1662827481"
+    },
+    {
+        "transaction": {
+            "id": "0x8a86df2b8cf748592c06fa937ce9c13093a258f9f36c75c1d9dade50d39f10a1"
+        },
+        "amount0": "33.894823336072308956",
+        "amount1": "-0.038623999037889048",
+        "timestamp": "1662827487"
+    },
+    {
+        "transaction": {
+            "id": "0xf7084a0da2f2b773f864b19cabe25eab3067b2c599fea5210b2f1c31c6f9438e"
+        },
+        "amount0": "51.247886024701481064",
+        "amount1": "-0.058306935804656991",
+        "timestamp": "1662827537"
+    },
+    {
+        "transaction": {
+            "id": "0x2217f176e198f5d6cc9e80ba43040856f7f7895307757329adcf3c2bed193aa9"
+        },
+        "amount0": "-56.460630524836406513",
+        "amount1": "0.064631453832134969",
+        "timestamp": "1662827579"
+    },
+    {
+        "transaction": {
+            "id": "0x8e4c2356516ab4a79e3c1be43b181e7d31fbbd6e51c6280bd4a7abf78c280615"
+        },
+        "amount0": "-56.298860950777304786",
+        "amount1": "0.06458036640904585",
+        "timestamp": "1662827579"
+    },
+    {
+        "transaction": {
+            "id": "0x98187075afb9a1388794cfc17c36b04cf7b5db941fa60bed7385f35f27153aab"
+        },
+        "amount0": "30.846743098041231813",
+        "amount1": "-0.035188765149461683",
+        "timestamp": "1662827613"
+    },
+    {
+        "transaction": {
+            "id": "0x016a77c1d12fc8c753776026129b2d32d88b42dc9a2fc916658a7a77d6c99059"
+        },
+        "amount0": "37.016091717649478176",
+        "amount1": "-0.042173857813675548",
+        "timestamp": "1662827639"
+    },
+    {
+        "transaction": {
+            "id": "0xa6a9d2616e569653d6cfc1ff9984da655d5cbba605d5d5cfe3e42263ab106d71"
+        },
+        "amount0": "-56.450891437160324034",
+        "amount1": "0.064863127011475386",
+        "timestamp": "1662827697"
+    },
+    {
+        "transaction": {
+            "id": "0xd24ac2309c9d872ff9b69280e6bb4ab7f11af36dfcc6b0447afb1d57110ba1d5"
+        },
+        "amount0": "-56.59691924711600255",
+        "amount1": "0.064895430060321322",
+        "timestamp": "1662827697"
+    },
+    {
+        "transaction": {
+            "id": "0x9e9ad234fd1466a45847a8bbeb2a65ecf4d884e401c62e000d558cbdb95e7a41"
+        },
+        "amount0": "28.754813863928112965",
+        "amount1": "-0.032858639786793318",
+        "timestamp": "1662827699"
+    },
+    {
+        "transaction": {
+            "id": "0xaa97ed47418b66a4731f597df77b16b120dd514bcca582327a5b2ff4d7ee3ea2"
+        },
+        "amount0": "20",
+        "amount1": "-0.02283386520438473",
+        "timestamp": "1662828331"
+    },
+    {
+        "transaction": {
+            "id": "0x3742b75793898bdceb9121c49d7239b31e9ceab6a42983045b3f4118acd56147"
+        },
+        "amount0": "40.920716112531969309",
+        "amount1": "-0.046666560690791379",
+        "timestamp": "1662831483"
+    },
+    {
+        "transaction": {
+            "id": "0xcca2a8b97ba9372b7c7bc300e7b6c4521dcc8945537d923918a481be8911234f"
+        },
+        "amount0": "30.740854595757762065",
+        "amount1": "-0.035011158776412528",
+        "timestamp": "1662831545"
+    },
+    {
+        "transaction": {
+            "id": "0x7ed8da94cde32dd0aaa2180801e4ad159c1086d028e8fe7a5e28d6ee4a82e6ad"
+        },
+        "amount0": "61.62695152013147083",
+        "amount1": "-0.070068705923892407",
+        "timestamp": "1662831595"
+    },
+    {
+        "transaction": {
+            "id": "0x49161021c01e58e3955e7458093929511d3506c9faa0f2ac51227acacadc8a02"
+        },
+        "amount0": "30.837230816672662794",
+        "amount1": "-0.035001933521157844",
+        "timestamp": "1662831653"
+    },
+    {
+        "transaction": {
+            "id": "0x462f6ac43c77069e447f0e744ff435ef49b897f3ded21ae9977f6f996f7d65d4"
+        },
+        "amount0": "55.076750471722168392",
+        "amount1": "-0.062416658808878148",
+        "timestamp": "1662836600"
+    },
+    {
+        "transaction": {
+            "id": "0xf9efdbac100697ab9787d89e6813470b052655c93ea113b867a6bc028ddc74b3"
+        },
+        "amount0": "30.613806826878922393",
+        "amount1": "-0.034639198711879859",
+        "timestamp": "1662837082"
+    },
+    {
+        "transaction": {
+            "id": "0x6ecd2ea38ae0dae65fbedc92d24f0445b88fa31ba0764adbc86c588d443b0ce2"
+        },
+        "amount0": "53.091020470672316096",
+        "amount1": "-0.059979904100580214",
+        "timestamp": "1662838786"
+    },
+    {
+        "transaction": {
+            "id": "0xf0d55c19b0c2337f5fd7a7c75c4835de363d8b5eda109a002b933053ffb1402d"
+        },
+        "amount0": "-19.477331545455286495",
+        "amount1": "0.022123708822838928",
+        "timestamp": "1662841248"
+    },
+    {
+        "transaction": {
+            "id": "0x1e8645750f738586217fb06bd53dd149f912002dd51f4c734caf2f1a14d8cf09"
+        },
+        "amount0": "-43.981506042009877862",
+        "amount1": "0.050015527550573524",
+        "timestamp": "1662841926"
+    },
+    {
+        "transaction": {
+            "id": "0x210811ab372bc57ef41a49aacbfc8a3233d0486ad15eae569bb03a0e2c003def"
+        },
+        "amount0": "-37.628414501783502471",
+        "amount1": "0.042855015297214808",
+        "timestamp": "1662842204"
+    },
+    {
+        "transaction": {
+            "id": "0x3cc39ad67d0816d8fa57084ffe56e32c671957ac5e241e518a2547a11da8b127"
+        },
+        "amount0": "-62.626840182514514892",
+        "amount1": "0.071457384890220711",
+        "timestamp": "1662842450"
+    },
+    {
+        "transaction": {
+            "id": "0xcb578b4d9aea0c2a9c9652f8524b4a902a33766c56e5dd51044ddaa7ba2ce5fb"
+        },
+        "amount0": "-43.753667299887123924",
+        "amount1": "0.050020840170208904",
+        "timestamp": "1662842512"
+    },
+    {
+        "transaction": {
+            "id": "0x879f4608fc78294c617d7eb4b2a9f16bfdbde924af684a044fae42272be259e2"
+        },
+        "amount0": "-62.396643030466119894",
+        "amount1": "0.071473860164851",
+        "timestamp": "1662842542"
+    },
+    {
+        "transaction": {
+            "id": "0xca9af392bd205deb08d99383fcc672e2fa7072c5e1cf21773eba373b0136b5e9"
+        },
+        "amount0": "-40.206012963126018589",
+        "amount1": "0.046142197244596647",
+        "timestamp": "1662842586"
+    },
+    {
+        "transaction": {
+            "id": "0x97b5c195ae464be70dbabbfb730b9fecd9dbe5c781098847fab04f1b70280a03"
+        },
+        "amount0": "-66.323203940140491365",
+        "amount1": "0.076265310838918419",
+        "timestamp": "1662842746"
+    },
+    {
+        "transaction": {
+            "id": "0xdac77b0bad96b2253c29dcd829ad13f56385ebde7b46a6acc93a36ad12fd59a0"
+        },
+        "amount0": "-36.495399445910967251",
+        "amount1": "0.04204594461090808",
+        "timestamp": "1662842850"
+    },
+    {
+        "transaction": {
+            "id": "0xce0e4e350f17ccf7ae2461af329d6e713d5a7dc1bfb7729a9277d64f86fdc882"
+        },
+        "amount0": "-27.945039187188211847",
+        "amount1": "0.032233539687354261",
+        "timestamp": "1662844642"
+    },
+    {
+        "transaction": {
+            "id": "0x62b838dd2c10c316c163d48219baf724f47e83dbd7025ade64a7853fa19d35fa"
+        },
+        "amount0": "52.48",
+        "amount1": "-0.060143784734060086",
+        "timestamp": "1662846192"
+    }
+]

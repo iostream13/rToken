@@ -1,0 +1,34 @@
+Swap: 
+{
+  swaps(
+    where: {pool_: {id: "0xa38a0165e82b7a5e8650109e9e54087a34c93020"}}
+    orderBy: timestamp
+    orderDirection: desc
+  ) {
+    pool {
+      id
+    }
+    timestamp
+    amount0
+    amount1
+    sqrtPriceX96
+    tick
+  }
+}
+
+
+{
+  swaps(where: {block: {number: 17120497}, pool_: {id: "0x99da39d60c9733d37573266a8551443cc122441b"}} )
+  {
+    id
+    transaction {
+      id
+    }
+    timestamp
+    tick
+    sqrtPriceX96
+  }
+}
+    
+where: {transaction_:{id: "0xba6e4958c376fbab539cf417e6ff8e34b2afe44d554e4e416198e803426e27f8"}} 
+
